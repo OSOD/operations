@@ -1,3 +1,3 @@
 # Operations
 
-This is the operations repo for <a href="http://opensourceopendata">Open Source Open Data</a>.
+This is the operations repo for <a href="http://opensourceopendata.org">Open Source Open Data</a>.
